@@ -4,7 +4,7 @@
 🔧 Atualmente trabalhando em melhorias por aqui. 🛠️
 
 <div align="center">
-<img height="190vh" src="https://github-readme-stats.vercel.app/api?username=lucastoledo95&show_icons=true&theme=radical" alt="Anurag's GitHub stats" style="margin-right: 10px;" /> <img height="190vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucastoledo95&show_icons=true&theme=radical" alt="Top Langs" />
+<img height="210vh" src="https://github-readme-stats.vercel.app/api?username=lucastoledo95&show_icons=true&theme=radical" alt="Anurag's GitHub stats" style="margin-right: 10px;" /> <img height="210vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucastoledo95&show_icons=true&theme=radical" alt="Top Langs" />
 </div>
 
 
