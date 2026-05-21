@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <td width="15%" valign="top">
+    <td width="5%" valign="top">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-morreto)
 
@@ -14,7 +14,7 @@
 
   </td>
 
-  <td width="85%">
+  <td width="95%">
 
 <img 
   src="./assets/metrics.svg" 
