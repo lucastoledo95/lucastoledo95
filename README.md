@@ -8,6 +8,9 @@
 <img height="180vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucastoledo95&layout=compact&show_icons=true&theme=radical&locale=pt-br" alt="Campact Langs" />
 </div>
 
+![Metrics](https://raw.githubusercontent.com/gist/Ev357/17d9fc0cbccd58aea20b392de2d88eba/raw/aa5379c97b7f1bf89105f0960fafdb389cdbd70e/github-metrics.svg)
+
+
 <br><br><br><br>
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-morreto)](https://www.linkedin.com/in/lucas-morreto)
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=github&logoColor=white&link=https://github.com/lucastoledo95)](https://github.com/lucastoledo95)
