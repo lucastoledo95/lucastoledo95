@@ -4,15 +4,11 @@
 🔧 Atualmente trabalhando em melhorias por aqui. 🛠️
 
 <div align="center">
-<img height="180vh" src="https://github-readme-stats.vercel.app/api?username=lucastoledo95&show_icons=true&theme=radical&locale=pt-br&rank_icon=github" alt="Anurag's GitHub stats" style="margin-right: 10px;" /> 
-<img height="180vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucastoledo95&layout=compact&show_icons=true&theme=radical&locale=pt-br" alt="Campact Langs" />
-</div>
 
 ![Metrics](./assets/metrics.svg)
 
-### --------------------------------------------------------------------------
+</div>
 
-![Metrics](./assets/metrics-advanced.svg)
 
 <br><br><br><br>
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-morreto)](https://www.linkedin.com/in/lucas-morreto)
