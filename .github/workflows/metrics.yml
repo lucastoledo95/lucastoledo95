@@ -23,12 +23,19 @@ jobs:
           filename: assets/metrics.svg
 
           # TEMA
-          theme: tokyonight
+          theme: transparent
 
           # CONFIGURAÇÕES VISUAIS
           config_display: large
           config_octicon: yes
           config_timezone: America/Sao_Paulo
+
+          color:
+          background: "1a1b27"
+          text: "c0caf5"
+          header: "7aa2f7"
+          border: "414868"
+          title: "7dcfff"
 
           # Seções base
           base: header, activity, community, repositories, metadata
