@@ -8,7 +8,7 @@
 <img height="180vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucastoledo95&layout=compact&show_icons=true&theme=radical&locale=pt-br" alt="Campact Langs" />
 </div>
 
-![Metrics](https://raw.githubusercontent.com/gist/Ev357/17d9fc0cbccd58aea20b392de2d88eba/raw/aa5379c97b7f1bf89105f0960fafdb389cdbd70e/github-metrics.svg)
+![Metrics](./assets/metrics.svg)
 
 
 <br><br><br><br>
