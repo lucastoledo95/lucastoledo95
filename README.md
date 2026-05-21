@@ -1,9 +1,13 @@
 # Bem-vindo ao meu perfil! 👋
 
-<div align="center"> 
- 
-![Metrics](./assets/metrics.svg)
-  
+<div align="center">
+
+<img 
+  src="./assets/metrics.svg" 
+  alt="GitHub Metrics"
+  width="95%"
+/>
+
 </div>
 
 
