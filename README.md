@@ -1,8 +1,7 @@
 # Bem-vindo ao meu perfil! 👋
 
-<table border="0" style="border: none;">
-  <tr border="0" style="border: none;">
-    <td width="10%" valign="top" border="0" style="border: none;">
+<div style="display: flow-root;">
+  <div style="float: left; width: 10%; padding-top: 4px;">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-morreto)
 
@@ -12,16 +11,14 @@
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lucas.t.moretto@gmail.com)
 
-  </td>
+  </div>
+  <div style="float: right; width: 89%;">
 
-  <td width="90%" border="0" style="border: none;">
-
-<img 
-  src="./assets/metrics.svg" 
+<img
+  src="./assets/metrics.svg"
   alt="GitHub Metrics"
   width="100%"
 />
 
-  </td>
-  </tr>
-</table>
+  </div>
+</div>
