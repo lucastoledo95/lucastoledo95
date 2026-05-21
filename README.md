@@ -1,8 +1,8 @@
 # Bem-vindo ao meu perfil! 👋
 
-<table>
-  <tr>
-    <td width="10%" valign="top">
+<table border="0" style="border: none;">
+  <tr border="0" style="border: none;">
+    <td width="10%" valign="top" style="border: none;">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-morreto)
 
@@ -12,9 +12,9 @@
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lucas.t.moretto@gmail.com)
 
-  </td>
+    </td>
 
-  <td width="90%">
+    <td width="90%" style="border: none;">
 
 <img 
   src="./assets/metrics.svg" 
@@ -22,6 +22,6 @@
   width="100%"
 />
 
-  </td>
+    </td>
   </tr>
 </table>
