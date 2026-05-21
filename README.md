@@ -1,14 +1,9 @@
 # Bem-vindo ao meu perfil! 👋
 
-🚧 **README em Construção** 🚧  
-🔧 Atualmente trabalhando em melhorias por aqui. 🛠️
-
 <div align="center">
 <img src="./assets/metrics.svg" alt="Metrics GitHub stats" style="margin-right: 10px;" /> 
 
 </div>
-
-
 
 <br><br>
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-morreto)](https://www.linkedin.com/in/lucas-morreto)
