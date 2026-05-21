@@ -4,10 +4,9 @@
 🔧 Atualmente trabalhando em melhorias por aqui. 🛠️
 
 <div align="center">
-
-![Metrics](./assets/metrics.svg)
-
+<img src="./assets/metrics.svg" alt="Metrics GitHub stats" style="margin-right: 10px;" /> 
 </div>
+
 
 
 <br><br><br><br>
