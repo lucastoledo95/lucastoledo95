@@ -1,19 +1,9 @@
 # Bem-vindo ao meu perfil! 👋
 
 <div align="center">
-  <img 
-    src="./assets/metrics.svg" 
-    alt="Metrics GitHub stats"
-    style="
-      width: 100%;
-      max-width: 900px;
-      border-radius: 20px;
-      padding: 20px;
-      background: linear-gradient(135deg, #0f172a, #1e293b);
-      box-shadow: 0 10px 30px rgba(0,0,0,0.4);
-      border: 1px solid rgba(255,255,255,0.1);
-    "
-  />
+ 
+![Metrics](./assets/metrics.svg)
+  
 </div>
 
 
