@@ -4,7 +4,7 @@
   <tr border="0" style="border: none;">
 <td width="12%" valign="top" style="border: none;">
 
-<h5>📫Contatos</h5>
+<h5 style="white-space: nowrap;">📫 Contatos</h5>
 
 <a href="https://www.linkedin.com/in/lucas-morreto">
   <img
