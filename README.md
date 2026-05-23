@@ -3,7 +3,7 @@
 <table border="0" style="border: none;">
   <tr border="0" style="border: none;">
     <td width="10%" valign="top" border="0" style="border: none;"> 
-       <h3>📫 Contatos</h3>
+       <h5>📫 Contatos</h5>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-morreto)
 
