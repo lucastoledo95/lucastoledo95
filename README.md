@@ -2,19 +2,40 @@
 
 <table border="0" style="border: none;">
   <tr border="0" style="border: none;">
-    <td width="10%" valign="top" border="0" style="border: none;"> 
-       <h5>📫 Contatos</h5>
+<td width="14%" valign="top" style="border: none;">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-morreto)
+<h3>📫 Contatos</h3>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/lucastoledo95)
+<a href="https://www.linkedin.com/in/lucas-morreto">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    width="100%"
+  />
+</a>
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/139920585047146496)
+<a href="https://github.com/lucastoledo95">
+  <img
+    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+    width="100%"
+  />
+</a>
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lucas.t.moretto@gmail.com)
+<a href="https://discord.com/users/139920585047146496">
+  <img
+    src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
+    width="100%"
+  />
+</a>
 
-  </td>
-  <td width="90%" border="0" style="border: none;">
+<a href="mailto:lucas.t.moretto@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    width="100%"
+  />
+</a>
+
+</td>
+  <td width="86%" border="0" style="border: none;">
 
 <img
   src="./assets/metrics.svg"
