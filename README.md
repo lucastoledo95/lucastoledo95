@@ -2,9 +2,9 @@
 
 <table border="0" style="border: none;">
   <tr border="0" style="border: none;">
-<td width="14%" valign="top" style="border: none;">
+<td width="12%" valign="top" style="border: none;">
 
-<h5>📫 Contatos</h5>
+<h4>📫 Contatos</h4>
 
 <a href="https://www.linkedin.com/in/lucas-morreto">
   <img
@@ -35,7 +35,7 @@
 </a>
 
 </td>
-  <td width="86%" border="0" style="border: none;">
+  <td width="88%" border="0" style="border: none;">
 
 <img
   src="./assets/metrics.svg"
