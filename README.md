@@ -2,7 +2,7 @@
 
 <table border="0" style="border: none;">
   <tr border="0" style="border: none;">
-<td width="12%" valign="top" style="border: none;">
+<td width="13%" valign="top" style="border: none;">
 
 <h3>📫 Contatos</h3>
 
@@ -35,7 +35,7 @@
 </a>
 
 </td>
-  <td width="88%" border="0" style="border: none;">
+  <td width="87%" border="0" style="border: none;">
 
 <img
   src="./assets/metrics.svg"
